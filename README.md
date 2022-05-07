@@ -10,6 +10,9 @@
 
 ___________________________________________________________________                                                                 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylltek)](https://github.com/anuraghazra/github-readme-stats)
+
+
 🛠|Discord Bots
 
 🖌|Designer
