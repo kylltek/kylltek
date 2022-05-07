@@ -8,6 +8,16 @@
 - 💞️ Busco proyectos en cual colaborar ...
 - 📫 Me puedes contactar por discord ...
 
+___________________________________________________________________
+
+🛠|Discord Bots
+
+🖌|Designer
+
+🔒|Private cheats
+
+
+
 <!---
 kylltek/kylltek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
