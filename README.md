@@ -1,4 +1,5 @@
-https://user-images.githubusercontent.com/94861415/163727117-25549b74-257d-4203-bac6-6618db83b52f.png
+
+![image](https://user-images.githubusercontent.com/105109829/167253330-999b4242-de5a-4fb3-b1d0-3bbc83705342.png)
 
 - 👋 Hola, soy @kylltek
 - 👀 Interesado en la programacion ...
